@@ -14,3 +14,5 @@ Data-related docs/cookbook and interesting documentation for all levels.
 |Description|url|
 | :-----:|:-----:|
 |Postgresql for exercises|https://pgexercises.com/|
+|SQL resources|https://www.w3schools.com/sql/|
+|Pyspark exercises|https://github.com/areibman/pyspark_exercises|
