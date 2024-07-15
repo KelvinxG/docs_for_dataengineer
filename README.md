@@ -16,3 +16,11 @@ Data-related docs/cookbook and interesting documentation for all levels.
 |Postgresql for exercises|https://pgexercises.com/|
 |SQL resources|https://www.w3schools.com/sql/|
 |Pyspark exercises|https://github.com/areibman/pyspark_exercises|
+
+
+<h1>Interview questions for data engineer</h1>
+
+
+|Description|url|
+| :-----:|:-----:|
+|interview questions|https://github.com/OBenner/data-engineering-interview-questions/blob/master/content/full.md|
