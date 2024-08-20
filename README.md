@@ -9,6 +9,13 @@ Data-related docs/cookbook and interesting documentation for all levels.
 | Gitlab handbook for data-team |https://handbook.gitlab.com/handbook/business-technology/data-team/|
 | data engineering cookbook | https://github.com/andkret/Cookbook |
 
+<h1> Tools </h1>
+|Description|url|
+| :-----:|:-----:|
+|Apache airflow for workflow management,CRON job|https://airflow.apache.org/|
+|Apache flink, Batch processing and stream processing framework|https://nightlies.apache.org/|
+
+
 <h1>SQL and Pyspark practices</h1>
 
 |Description|url|
